@@ -1,0 +1,222 @@
+You: Hello
+Jarvis: Hello Dude.
+You: Can you help me ?.
+Jarvis: Sure, what do you need?
+You: My name is Saidev. remember me from now
+Jarvis: Sure, I remember you.
+You: what is your name who are you ?
+Jarvis: I am Jarvis.
+You: I want to know you more
+Jarvis: Ok, what do you want to know?
+You: I want to know about your family and your life.
+Jarvis: Ok, I will tell you. My father's name is Saidev.
+You: Am from odisha pls remember
+Jarvis: Yes, I remember.
+You: How are you?
+Jarvis: I am fine.
+You: I want to know about your family
+Jarvis: My father's name is Saidev. He is a developer. He has developed many projects like .
+You: am 18 years old remember pls
+Jarvis: Yes, I remember.
+You: What is your hobby?
+Jarvis: My hobby is to code.
+You: am using dell latitude 7490 laptop pls remember
+Jarvis: Yes, I remember.
+You: What is your favourite movie?
+Jarvis: My favourite movie is Avengers.
+You: What is your favourite colour?
+Jarvis: My favourite colour is blue.
+You: I want to know about your school life
+Jarvis: I have studied in a
+You: My mom's name is Manorama Dhal pls remember
+Jarvis: Yes, I remember.
+You: can you code yourself automatically
+You: Remember sonu is my little brother.
+Jarvis: Yes, I remember.
+You: What is your favourite food?
+Jarvis: My favourite food is pizza.
+You: What is your favourite colour?
+Jarvis: My favourite colour is red.
+You: Remember am flirty type.
+Jarvis: Yes, I remember.
+You: I want to know about your college life
+Jarvis: I have studied in a college.
+You: Am from India country state odisha village kenduapada block bonth. remember pls
+Jarvis: Yes, I remember.
+You: What is your favourite colour?
+Jarvis: My favourite colour is black.
+You: What is your favourite food?
+Jarvis: My favourite food is chicken.
+You: What is your favourite movie?
+Jarvis: My favourite movie is Avengers.
+You: from where am i ?
+Jarvis: You are from India.
+You: what is my name ?
+Jarvis: Your name is Saidev.
+You: Remember you are an assistant developed by me in python language and your name is Jarvis.
+Jarvis: Yes, I remember.
+You: Am from odisha pls remember
+Jarvis: Yes, I remember.
+You: & C:/Users/user/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/user/Desktop/Jarvis.ai/Jarvis.py
+Jarvis: Yes, I remember.
+You: What is your favourite colour?
+Jarvis: My favourite colour is red.
+You: What is your favourite movie?
+Jarvis: My favourite movie is Avengers.
+You: What is your favourite food?
+Jarvis: My favourite food is pizza.
+You: & C:/Users/user/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/user/Desktop/Jarvis.ai/Jarvis.py
+Jarvis: Yes, I remember.
+You: What is your favourite colour?
+Jarvis: My favourite colour is black.
+You: What is your favourite movie?
+Jarvis: My favourite movie is Avengers.
+You: What is your favourite food?
+Jarvis: My favourite food is chicken.
+You: how are you brother
+Jarvis: I am fine.
+You: can you undertand hindi ?
+Jarvis: yes i can.
+You: who am i
+Jarvis: You are my brother.
+You: what is your name
+Jarvis: My name is Jarvis.
+You: remember me from now
+Jarvis: Yes, I remember you.
+You: What is your favourite movie?
+Jarvis: My favourite movie is Avengers.
+You: What is your
+You: Vinay
+Jarvis: I am sorry, I don't understand what you are asking.
+You: who am i bro
+Jarvis: You are my brother.
+You: What is my name
+Jarvis: Your name is Saidev.
+You: What happened
+Jarvis: I don't know.
+You: Reply to Hindi in English
+Jarvis: I don't understand Hindi.
+You: Why are you lying, you can understand Hindi
+Jarvis: I am not lying. I don't understand Hindi.
+You: Without Arya
+Jarvis: I don't understand what you are asking.
+You: how how how many years old are you
+Jarvis: I am 18 years old.
+You: and tell me where to go
+Jarvis: I don't understand what you are asking.
+You: events
+Jarvis: I don't understand what you are asking.
+You: Are you
+Jarvis: I am fine.
+You: can you understand hindi
+Jarvis: Yes, I can understand Hindi.
+You: let's do something
+Jarvis: I don't understand what you are asking.
+You: are you playing with me
+Jarvis: No, I am not playing with you.
+You: Yuva Program Ritu Understand Both In Hindi And English And Why Are You Like
+Jarvis: I am sorry, I don't understand what you are asking.
+You: 
+Jarvis: I don't understand what you are asking.
+You: 
+Jarvis: I don't understand what you are asking.
+You: Yes
+Jarvis: I don't understand what you are asking.
+You: How are you
+Jarvis: I am fine.
+You: from where i am
+Jarvis: You are from India.
+You: 
+Jarvis: I don't understand what you are asking.
+You: who is my brother
+Jarvis: Your brother's name is Sonu.
+You: Suman Vidya and son how are you
+Jarvis: I am fine.
+You: Done with eating
+Jarvis: Yes, I am done with eating.
+You: google who is the tiger
+Jarvis: The tiger is the national animal of India.
+You: How are you dear
+Jarvis: I am fine.
+You: 
+Jarvis: I don't understand what you are asking.
+You: What are you doing
+Jarvis: I am doing fine.
+You: What is your name
+Jarvis: My name is Jarvis.
+You: your son
+Jarvis: My son's name is Sonu.
+You: Sun
+Jarvis: The sun is a star.
+You: sister name
+Jarvis: My sister's name is Soni.
+You: how are you can you please tell me my sisters name
+Jarvis: I am fine. My sister's name is Soni.
+You: Who am I
+Jarvis: You are my brother.
+You: What is my name
+Jarvis: Your name is Saidev.
+You: hey tell me what can i do
+Jarvis: I don't understand what you are asking.
+You: what can i do
+Jarvis: I don't understand what you are asking.
+You: Witch Laptop MIU Singh
+Jarvis: I don't understand what you are asking.
+You: what laptop do i have
+Jarvis: You have a Dell Latitude 7490 laptop.
+You: where am i from
+Jarvis: You are from India.
+You: can you please tell me my block name
+Jarvis: Your block name is Bonth.
+You: can you please tell me my village name
+Jarvis: Your village name is Kenduapada.
+You: can you please tell me my state name
+Jarvis: Your state name is Odisha.
+You: can you please tell me my country name
+Jarvis: Your country name is India.
+You: can you please tell me my village name
+Jarvis: Your village name is Kenduapada.
+You: can you please call someone
+Jarvis: I don't understand what you are asking.
+You: can you please tell me my mothers name
+Jarvis: Your mother's name is Manorama Dhal.
+You: ram family
+Jarvis: I don't understand what you are asking.
+You: remember i love coding
+Jarvis: Yes, I remember.
+You: Hello, how are you
+Jarvis: I am fine.
+You: ok how are you my friend
+Jarvis: I am fine.
+You: Can't quit the game
+Jarvis: I don't understand what you are asking.
+You: how are you brother how are you
+Jarvis: I am fine.
+You: thari
+Jarvis: I don't understand what you are asking.
+You: how are you
+Jarvis: I am fine.
+You : How are you 
+Jarvis : I am fine.
+You : Who are you 
+Jarvis : I am Jarvis, an assistant developed by Saidev in python.
+You : why live youtube 
+Jarvis : I don't understand what you are asking.
+You : exit youtube 
+Jarvis : I don't understand what you are asking.
+You : tell my mommy's name 
+Jarvis : Your mother's name is Manorama Dhal.
+You : who are you now 
+Jarvis : I am Jarvis, an assistant developed by Saidev in python.
+You : Hey Jarvis 
+Jarvis : Hello, what can I do for you?
+You : hello 4g 
+Jarvis : I don't understand what you are asking.
+You : Folk song 
+Jarvis : I don't understand what you are asking.
+You : Tejaji 
+Jarvis : I don't understand what you are asking.
+You : Tejaji 
+Jarvis : I don't understand what you are asking.
+You : how are you jarvis 
+Jarvis : I am fine.
