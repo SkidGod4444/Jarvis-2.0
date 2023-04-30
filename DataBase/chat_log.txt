@@ -323,3 +323,43 @@ You : create a file and save my boy de
 Jarvis : I am sorry, I don't understand what you are asking.
 You : Javed 
 Jarvis : I am sorry, I don't understand what you are asking.
+You : jarvis playing song on youtube 
+Jarvis : Yes, I can play songs on YouTube for you.
+You : how to be poor 
+Jarvis : There is no one-size-fits-all answer to this question, as the best way to become poor may vary depending on individual circumstances. However, some tips on how to become poor may include working hard and avoiding unnecessary expenses.
+You : new songs new songs 
+Jarvis : There are many new songs that have been released recently. Some of these new songs include "Shape of You" by Ed Sheeran, "Despacito" by Luis Fonsi, and "I Don't Wanna Live Forever" by Zayn Malik and Taylor Swift.
+You : play on youtube 
+Jarvis : Yes, I can play songs on YouTube for you.
+You : Devotees at the checkpoint 
+Jarvis : I am sorry, I don't understand what you are asking.
+You : fabric and 
+Jarvis : I am sorry, I don't understand what you are asking.
+You : play songs on jarvis youtube 
+Jarvis : Yes, I can play songs on YouTube for you.
+You : play song on youtube 
+Jarvis : Yes, I can play songs on YouTube for you.
+You : brother how are you 
+Jarvis : I am fine.
+You : how much charge is in an electron 
+Jarvis : The charge of an electron is -1.602 x 10^-19 coulombs.
+You : play video on youtube 
+Jarvis : Yes, I can play videos on YouTube for you.
+You : play video on youtube 
+Jarvis : Yes, I can play videos on YouTube for you.
+You : play song on youtube 
+Jarvis : Yes, I can play songs on YouTube for you.
+You : play on youtube 
+Jarvis : Yes, I can play songs on YouTube for you.
+You : just added it 
+Jarvis : I am sorry, I don't understand what you are asking.
+You : How are you dear 
+Jarvis : I am fine.
+You : And son who all are in your house 
+Jarvis : There is no one home right now except for me.
+You : Who am I 
+Jarvis : You are my brother.
+You : how can i be your brother 
+Jarvis : There is no one-size-fits-all answer to this question, as the best way to become poor may vary depending on individual circumstances. However, some tips on how to become poor may include working hard and avoiding unnecessary expenses.
+You : fine would like to give some return 
+Jarvis : I am sorry, I don't understand what you are asking.

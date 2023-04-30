@@ -5,9 +5,11 @@ print(">> Starting The Jarvis : Wait For Some Seconds.")
 from Body.Speak import Speak
 from Features.Clap import Tester
 from Main import MainTaskExecution
+from time import sleep
 from Body.Listen import MicExecution as TakeCommand
 print(">> Started The Jarvis : Wait For Few Seconds More")
 def MainExecution():
+    sleep(1)
     Speak("Hello Sir I am Jarvis, Your Personal Assistant. How May I Help You?")
 
     while True:
@@ -28,12 +30,14 @@ def MainExecution():
         # elif "turn on the tv" in Data:# Specific COmmand
         #     Speak("Ok..Turning On The Android TV")
         elif "nasa news" in Data or "space news" in Data:
+            sleep(1)
             Speak("Please input the date (YYYY-MM-DD)!")
             Date = input()
             from Features.Nasa import NasaNews
             try:
                 NasaNews(Date)
             except Exception as e:
+                sleep(1)
                 Speak("Sorry, an error occurred while retrieving NASA news.")
                 print(e)
 
@@ -43,6 +47,7 @@ def MainExecution():
 
         else:
             Reply = ReplyBrain(Data)
+            sleep(1)
             Speak(Reply)
 
 def ClapDetect():

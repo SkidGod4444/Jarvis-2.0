@@ -84,6 +84,11 @@
             "tag": "space news",
             "patterns": ["nasa updates","nasa news","nasa data","jarvis tell me the space news","tell me the space news","tell me the nasa news","tell me the nasa data"],
             "responses": ["space news"]
+        },
+        {
+            "tag": "play on youtube",
+            "patterns": ["play youtube","play on yt","play on youtube","play songs on youtube","play on songs youtube jarvis","play youtube jarvis","play youtube video","play youtube video jarvis","play video on youtube","play video on youtube jarvis"],
+            "responses": ["play on youtube"]
         }
     ]
 }

@@ -165,3 +165,7 @@ Question : what is chemistry
 Answer : Chemistry is the study of the composition, structure, properties, and reactions of matter.
 Question : what is chemistry 
 Answer : Chemistry is the study of the composition, structure, properties, and reactions of matter.
+Question : what is mathematics 
+Answer : Mathematics is the study of numbers, shapes, and patterns.
+Question : what is chemistry 
+Answer : Chemistry is the study of the composition, structure, properties, and reactions of matter.

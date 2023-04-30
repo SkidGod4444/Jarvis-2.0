@@ -8,6 +8,7 @@ import numpy as np
 import random
 from Features.Open import OpenExe
 from Features.Close import CloseExe
+from Features.Extra import PlayOnYt
 from Body.Speak import Speak
 from Body.Listen import MicExecution as TakeCommand
 # from Whatsapp import WhatsappSender
@@ -262,6 +263,12 @@ def MainTaskExecution(Query):
             Value = OpenExe(TaskNew)
             return Value
         
+
+        elif "play on youtube" in ReturnData:
+            Value = PlayOnYt(TaskNew)
+            return Value
+        
+
         elif "close" in ReturnData:
             Value = CloseExe(TaskNew)
             return Value
