@@ -8,6 +8,8 @@ import numpy as np
 import random
 from Features.Open import OpenExe
 from Features.Close import CloseExe
+from Body.Speak import Speak
+from Body.Listen import MicExecution as TakeCommand
 # from Whatsapp import WhatsappSender
 
 def TrainTasks():
@@ -264,6 +266,7 @@ def MainTaskExecution(Query):
             Value = CloseExe(TaskNew)
             return Value
 
+        
         # elif "whatsapp" in ReturnData:
         #     Namen = str(TaskNew).replace("send ","")
         #     Namen = str(Namen).replace("whatsapp ","")

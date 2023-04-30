@@ -19,11 +19,18 @@ def NasaNews(Date):
     Params = {'date':str(Date)}
     Response = requests.get(Api_Url,params=Params)
     Data = Response.json()
+    
+    try:
+        Info = Data['explanation']
+    except KeyError:
+        Info = "No explanation available."
 
-# Extraction
-    Info = Data['explanation']
-    Title = Data['title']
-    Image = Data['url']
+        if 'explanation' not in Data:
+            print("Error: no explanation available.")
+            return
+        Info = Data['explanation']
+        Title = Data['title']
+        Image = Data['url']
     
     Image_response = requests.get(Image)
     FileName = str(Date)+".jpg"

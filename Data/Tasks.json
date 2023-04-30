@@ -79,6 +79,11 @@
             "Hello! What's on your mind today?",
             "Hey! I hope you're doing well.",
             "Hello! I'm glad we ran into each other."]
+        },
+        {
+            "tag": "space news",
+            "patterns": ["nasa updates","nasa news","nasa data","jarvis tell me the space news","tell me the space news","tell me the nasa news","tell me the nasa data"],
+            "responses": ["space news"]
         }
     ]
 }

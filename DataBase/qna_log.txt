@@ -161,3 +161,7 @@ Question: what is physics
 Answer: Physics is the study of the fundamental principles of the universe.
 Question: what is physics
 Answer: Physics is the study of the fundamental principles of the universe.
+Question : what is chemistry 
+Answer : Chemistry is the study of the composition, structure, properties, and reactions of matter.
+Question : what is chemistry 
+Answer : Chemistry is the study of the composition, structure, properties, and reactions of matter.

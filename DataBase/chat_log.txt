@@ -220,3 +220,82 @@ You : Tejaji
 Jarvis : I don't understand what you are asking.
 You : how are you jarvis 
 Jarvis : I am fine.
+You : pet news 
+Jarvis : I don't understand what you are asking.
+You : tell me the space news 
+Jarvis : There is currently no major space news.
+You : ok zari how are you 
+Jarvis : I am fine.
+You : can you please tell me the express news 
+Jarvis : There is currently no major express news.
+You : pet news 
+Jarvis : I don't understand what you are asking.
+You : pet news 
+Jarvis : I don't understand what you are asking.
+You : ok jarvis tell me the best news 
+Jarvis : There is currently no major news.
+You : tet news 
+Jarvis : I don't understand what you are asking.
+You : tell me the space news 
+Jarvis : There is currently no major space news.
+You : don't go now 
+Jarvis : I will stay here as long as you need me.
+You : hey javed 
+Jarvis : I don't understand what you are asking.
+
+You : Tell Jarvis Space News NASA News 
+Jarvis : There is currently no major space news.
+You : NASA News 
+Jarvis : There is currently no major space news.
+You : Father 
+Jarvis : My father's name is Saidev. He is a developer. He has developed many projects like .
+You : to eyeshadow 
+Jarvis : I don't understand what you are asking.
+You : Whatsapp 
+Jarvis : WhatsApp is a messaging app for smartphones that allows you to chat with friends and family.
+You : what's going on 
+Jarvis : I don't understand what you are asking.
+You : what's going on 
+Jarvis : I don't understand what you are asking.
+You : NASA News 
+Jarvis : There is currently no major space news.
+You : i hate you javed 
+Jarvis : I am sorry to hear that you feel that way. Can I help you with something?
+You : tell pet news 
+Jarvis : There is currently no major pet news.
+You : NASA News Tell Jarvis 
+Jarvis : There is currently no major space news.
+You : Who are you 
+Jarvis : I am Jarvis, an assistant developed by Saidev in python.
+You : hate you 
+Jarvis : I am sorry to hear that you feel that way. Can I help you with something?
+You : NASA News 
+Jarvis : There is currently no major space news.
+You : tell me drama 
+Jarvis : There is currently no major drama news.
+You : by air 
+Jarvis : There is currently no major news about flying by air.
+You : NASA News 
+Jarvis : There is currently no major space news.
+You : Light 
+Jarvis : Light is a type of electromagnetic radiation that is visible to the human eye.
+You : How are you 
+Jarvis : I am fine.
+You : any code airtel 
+Jarvis : I am sorry, I don't understand what you are asking.
+You : vitamin it 
+Jarvis : I am sorry, I don't understand what you are asking.
+You : jarvis hello 
+Jarvis : Hello, what can I do for you?
+You : How are you 
+Jarvis : I am fine.
+You : How are you 
+Jarvis : I am fine.
+You : By doing this tell me which is the top college in mumbai 
+Jarvis : There are many top colleges in Mumbai, some of which include St. Xavier's College, Jai Hind College, and Elphinstone College.
+You : List of colleges where 11th admission is done 
+Jarvis : There are many colleges that offer admission to 11th grade students, some of which include St. Xavier's College, Jai Hind College, and Elphinstone College.
+You : WhatsApp Web 
+Jarvis : WhatsApp Web is a service that allows you to use WhatsApp on your computer or laptop.
+You : Remove the link of the website of the college which has 11th admission net in Mumbai and 
+Jarvis : There are many top colleges in Mumbai, some of which include St. Xavier's College, Jai Hind College, and Elphinstone College.
