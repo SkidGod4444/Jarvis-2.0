@@ -299,3 +299,27 @@ You : WhatsApp Web
 Jarvis : WhatsApp Web is a service that allows you to use WhatsApp on your computer or laptop.
 You : Remove the link of the website of the college which has 11th admission net in Mumbai and 
 Jarvis : There are many top colleges in Mumbai, some of which include St. Xavier's College, Jai Hind College, and Elphinstone College.
+You : How are you 
+Jarvis : I am fine.
+You : how are you brother 
+Jarvis : I am fine.
+You : cancel 
+Jarvis : I am sorry, I don't understand what you are asking.
+You : javed are you on the terminal can you see 
+Jarvis : I am sorry, I don't understand what you are asking.
+You : Javed 
+Jarvis : I am sorry, I don't understand what you are asking.
+You : Chinese can you see what came here at the terminal 
+Jarvis : I am sorry, I don't understand what you are asking.
+You : Jarvis Can You See What Come Here and the Terminal 
+Jarvis : I am sorry, I don't understand what you are asking.
+You : done jarvis listen to me 
+Jarvis : Yes, I am listening.
+You : can you remember my boy 
+Jarvis : Yes, I remember your son.
+You : can you remember my voice 
+Jarvis : Yes, I remember your voice.
+You : create a file and save my boy de 
+Jarvis : I am sorry, I don't understand what you are asking.
+You : Javed 
+Jarvis : I am sorry, I don't understand what you are asking.

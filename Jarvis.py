@@ -28,12 +28,15 @@ def MainExecution():
         # elif "turn on the tv" in Data:# Specific COmmand
         #     Speak("Ok..Turning On The Android TV")
         elif "nasa news" in Data or "space news" in Data:
-            Speak("Tell me the date pls!")
-            Date = TakeCommand()
-            from Features.Converter import DateConvt
-            Value = DateConvt(Date)
+            Speak("Please input the date (YYYY-MM-DD)!")
+            Date = input()
             from Features.Nasa import NasaNews
-            NasaNews(Value)
+            try:
+                NasaNews(Date)
+            except Exception as e:
+                Speak("Sorry, an error occurred while retrieving NASA news.")
+                print(e)
+
 
         elif "what is" in Data or "where is" in Data or "question" in Data or "answer" in Data:
             Reply = QuestionsAnswer(Data)
