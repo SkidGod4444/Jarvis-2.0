@@ -89,6 +89,11 @@
             "tag": "play on youtube",
             "patterns": ["play youtube","play on yt","play on youtube","play songs on youtube","play on songs youtube jarvis","play youtube jarvis","play youtube video","play youtube video jarvis","play video on youtube","play video on youtube jarvis"],
             "responses": ["play on youtube"]
+        },
+        {
+            "tag": " download this video",
+            "patterns": ["jarvis  download this video"," download this video"," download this video jarvis"," download youtube video"," youtube video download jarvis"," download video from youtube"," download video from youtube jarvis","download video from youtube"," download video from youtube jarvis"],
+            "responses": [" download this video"]
         }
     ]
 }

@@ -20,14 +20,14 @@ def ReplyBrain(question,chat_log = None):
     if chat_log is None:
         chat_log = chat_log_template
 
-    prompt = f'{chat_log}You : {question}\nJarvis : '
+    prompt = f'{chat_log[-4000:]}You : {question}\nJarvis : '
     response = completion.create(
         model = "text-davinci-002",
         prompt=prompt,
-        temperature = 0.5,
-        max_tokens = 50,
-        top_p = 0.3,
-        frequency_penalty = 0.5,
+        temperature = 0.7,#0.7
+        max_tokens = 100,
+        top_p = 0.3,#0.3
+        frequency_penalty = 0.5,#0.5
         presence_penalty = 0)
     answer = response.choices[0].text.strip()
     chat_log_template_update = chat_log_template + f"\nYou : {question} \nJarvis : {answer}"

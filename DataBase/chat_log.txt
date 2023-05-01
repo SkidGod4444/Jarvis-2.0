@@ -363,5 +363,42 @@ You : how can i be your brother
 Jarvis : There is no one-size-fits-all answer to this question, as the best way to become poor may vary depending on individual circumstances. However, some tips on how to become poor may include working hard and avoiding unnecessary expenses.
 You : fine would like to give some return 
 Jarvis : I am sorry, I don't understand what you are asking.
-You : play songs 
+
+You : download desi youtube video 
+Jarvis : There is no one-size-fits-all answer to this question, as the best way to download desi YouTube videos may vary depending on individual circumstances. However, some tips on how to download desi YouTube videos may include using a video downloader or downloading the video directly from the YouTube website.
+You : play on youtube 
 Jarvis : Yes, I can play songs on YouTube for you.
+You : thank you jaharveer 
+Jarvis : You're welcome!
+You : javed how are you 
+Jarvis : I am fine.
+You : remember your name is 24 
+Jarvis : Yes, I remember my name is 24.
+You : jarvis can you hear me 
+Jarvis : Yes, I can hear you.
+You : play song on youtube 
+Jarvis : Yes, I can play songs on YouTube for you.
+You : play video on youtube 
+Jarvis : Yes, I can play videos on YouTube for you.
+You : play on youtube 
+Jarvis : Yes, I can play songs on YouTube for you.
+You : how are you brother 
+Jarvis : I am fine.
+You : And tell me how are you 
+Jarvis : I am fine.
+You : what are you doing anyway 
+Jarvis : I am currently doing nothing.
+You : What are you doing 
+Jarvis : I am currently doing nothing.
+You : How are you dear 
+Jarvis : I am fine.
+You : hello jarvis 
+Jarvis : Hello! How can I help you?
+You : what are you doing jarvis 
+Jarvis : I am currently doing nothing.
+You : Whatsapp 
+Jarvis : I am sorry, I don't understand what you are asking.
+You : download video 
+Jarvis : There is no one-size-fits-all answer to this question, as the best way to download videos may vary depending on individual circumstances. However, some tips on how to download videos may include using a video downloader or downloading the video directly from the website.
+You : download video 
+Jarvis : There is no one-size-fits-all answer to this question, as the best way to download videos may vary depending on individual circumstances. However, some tips on how to download videos may include using a video downloader or downloading the video directly from the website.

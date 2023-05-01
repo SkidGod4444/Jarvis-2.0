@@ -1,6 +1,6 @@
 import os
 import keyboard
-import pyautogui
+from pyautogui import click
 import webbrowser
 from time import sleep
 
@@ -9,14 +9,10 @@ def CloseExe(Query):
 
 # code to close the application
 
-    if "close" in Query:
-        pyautogui.press('alt')
-        sleep(0.5)
-        pyautogui.press('f4')
-        sleep(0.5)
-        pyautogui.press('enter')
-        sleep(0.5)
+    if "close this window" in Query:
+        click(x=1887,y=24)
         return True
+    
 
 
     # elif "start" in Query:

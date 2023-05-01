@@ -153,13 +153,6 @@ Answer: An endothermic reaction is a type of chemical reaction that absorbs heat
 Examples of endothermic reactions include the melting of ice and the evaporation of water. Examples of exothermic reactions include the burning of fossil fuels and the combustion of explosives.
 Question: what is physics
 Answer: Physics is the study of the fundamental principles of the universe.
-Question: what is physics
-Answer: Physics is the study of the fundamental principles of the universe.
-Question: what is physics physics
-Answer: Physics is the study of the fundamental principles of the universe.
-Question: what is physics
-Answer: Physics is the study of the fundamental principles of the universe.
-Question: what is physics
 Answer: Physics is the study of the fundamental principles of the universe.
 Question : what is chemistry 
 Answer : Chemistry is the study of the composition, structure, properties, and reactions of matter.
@@ -169,3 +162,11 @@ Question : what is mathematics
 Answer : Mathematics is the study of numbers, shapes, and patterns.
 Question : what is chemistry 
 Answer : Chemistry is the study of the composition, structure, properties, and reactions of matter.
+Question : what is kinetic energy 
+Answer : Kinetic energy is the energy of motion. It is the energy that an object has due to its motion.
+Question : what is my name 
+Answer : I'm sorry, but I can't answer that question.
+Question : what is your name 
+Answer : My name is Kinametics.
+Question : what is your name 
+Answer : My name is Kinametics.
